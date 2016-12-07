@@ -35,7 +35,7 @@ public class Snake extends BlockSprite {
     }
 
     public void eatFood() {
-
+//This is a comment. Or is it??!!
     }
 
     public void move(SpriteDirection spriteDirection) {
